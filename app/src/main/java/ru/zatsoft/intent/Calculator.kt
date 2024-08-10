@@ -16,7 +16,6 @@ class Calculator : AppCompatActivity() {
         binding = ActivityCalculatorBinding.inflate(layoutInflater)
         setSupportActionBar(binding.toolbarMain)
         title = "Скрытый калькулятор"
-        val intent = Intent(this, Calculator::class.java)
         setContentView(binding.root)
     }
 
