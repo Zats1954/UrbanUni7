@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="button_text">Калькулятор</string>
+    <string name="hint_text">Результат</string>
+    <string name="text_exit">Выход</string>
+</resources>
